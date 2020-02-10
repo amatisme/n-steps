@@ -7,6 +7,6 @@ range() and sum(). Features use of ES6 array features including spread.
 Use:
 $bash node main
 
-Thanks to the team at (dailycodeproblem.com)[http:dailycodeproblem.com] for the inspiration!
+Thanks to the team at [dailycodeproblem.com](http:dailycodeproblem.com) for the inspiration!
 
 -mat
